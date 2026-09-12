@@ -54,7 +54,11 @@
 
 ### 📊 Activity
 
-![harukalab's github stats](https://github-readme-stats.vercel.app/api?username=harukalab&show_icons=true&theme=dark&hide_border=true&title_color=8FBF7F&text_color=ffffff&icon_color=8FBF7F&bg_color=141210)
+<div align="center">
+
+![harukalab's github stats](https://github-readme-stats-beige-alpha.vercel.app/api?username=harukalab&show_icons=true&theme=dark&hide_border=true&title_color=8FBF7F&text_color=ffffff&icon_color=8FBF7F&bg_color=141210)
+
+</div>
 
 </div>
 
@@ -81,6 +85,6 @@
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harukalab&theme=dark&hide_border=true&layout=compact&title_color=8FBF7F&text_color=ffffff&bg_color=141210)
+![Top Languages](https://github-readme-stats-beige-alpha.vercel.app/api/top-langs/?username=harukalab&theme=dark&hide_border=true&layout=compact&title_color=8FBF7F&text_color=ffffff&bg_color=141210)
 
 </div>
