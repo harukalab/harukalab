@@ -12,7 +12,7 @@
 
 ### 👋 Hi, I'm **harukalab**
 
-*Developer · AI Enthusiast · Terminal Hacker*
+*Developer · AI Enthusiast*
 
 [![GitHub](https://img.shields.io/badge/GitHub-harukalab-181717?logo=github&style=flat)](https://github.com/harukalab)
 [![Hiroto v2](https://img.shields.io/badge/Hiroto-v0.6.2-8FBF7F?style=flat)](https://github.com/harukalab/hiroto-v2)
