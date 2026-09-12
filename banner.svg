@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#141210"/>
+      <stop offset="100%" style="stop-color:#1a1815"/>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#E8A33D"/>
+      <stop offset="50%" style="stop-color:#8FBF7F"/>
+      <stop offset="100%" style="stop-color:#7FB4E8"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  
+  <!-- Grid pattern -->
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+    <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#3A3630" stroke-width="0.5" opacity="0.3"/>
+  </pattern>
+  <rect width="1200" height="300" fill="url(#grid)"/>
+  
+  <!-- Decorative lines -->
+  <line x1="0" y1="250" x2="1200" y2="250" stroke="#3A3630" stroke-width="1" opacity="0.5"/>
+  <line x1="0" y1="260" x2="1200" y2="260" stroke="#3A3630" stroke-width="1" opacity="0.3"/>
+  
+  <!-- Main text -->
+  <text x="600" y="140" font-family="monospace" font-size="96" font-weight="bold" fill="url(#textGrad)" text-anchor="middle" filter="url(#glow)">HARUKA</text>
+  
+  <!-- Subtitle -->
+  <text x="600" y="190" font-family="monospace" font-size="24" fill="#6E6A5E" text-anchor="middle">Developer · AI Enthusiast · Terminal Hacker</text>
+  
+  <!-- Decorative corner elements -->
+  <path d="M 40 40 L 80 40 L 80 44 L 44 44 L 44 80 L 40 80 Z" fill="#E8A33D" opacity="0.6"/>
+  <path d="M 1160 260 L 1120 260 L 1120 256 L 1156 256 L 1156 220 L 1160 220 Z" fill="#7FB4E8" opacity="0.6"/>
+  
+  <!-- Accent dots -->
+  <circle cx="100" cy="150" r="3" fill="#E8A33D" opacity="0.4"/>
+  <circle cx="1100" cy="150" r="3" fill="#7FB4E8" opacity="0.4"/>
+  
+  <!-- Bottom accent line -->
+  <rect x="450" y="270" width="300" height="2" fill="#3A3630" opacity="0.5"/>
+</svg>
