@@ -35,7 +35,7 @@
   <text x="600" y="140" font-family="monospace" font-size="96" font-weight="bold" fill="url(#textGrad)" text-anchor="middle" filter="url(#glow)">HARUKA</text>
   
   <!-- Subtitle -->
-  <text x="600" y="190" font-family="monospace" font-size="24" fill="#6E6A5E" text-anchor="middle">Developer · AI Enthusiast · Terminal Hacker</text>
+  <text x="600" y="190" font-family="monospace" font-size="24" fill="#6E6A5E" text-anchor="middle">Developer · AI Enthusiast</text>
   
   <!-- Decorative corner elements -->
   <path d="M 40 40 L 80 40 L 80 44 L 44 44 L 44 80 L 40 80 Z" fill="#E8A33D" opacity="0.6"/>
