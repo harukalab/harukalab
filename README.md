@@ -52,20 +52,6 @@
 
 <div align="center">
 
-### 📊 Activity
-
-<div align="center">
-
-![harukalab's github stats](https://github-readme-stats-beige-alpha.vercel.app/api?username=harukalab&show_icons=true&theme=dark&hide_border=true&title_color=8FBF7F&text_color=ffffff&icon_color=8FBF7F&bg_color=141210)
-
-</div>
-
-</div>
-
----
-
-<div align="center">
-
 ### 📫 Connect
 
 | Platform | Link |
