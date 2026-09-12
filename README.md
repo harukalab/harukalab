@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![harukalab banner](https://raw.githubusercontent.com/harukalab/harukalab/main/banner.png)
+![harukalab banner](https://raw.githubusercontent.com/harukalab/harukalab/main/banner.svg)
 
 </div>
 
