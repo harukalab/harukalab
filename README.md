@@ -44,7 +44,7 @@
 
 | Project | Description |
 |---------|-------------|
-| **[Hiroto v2](https://github.com/harukalab/hiroto-v2)** | 🤖 AI agent that lives in your terminal |
+| **[Hiroto v2](https://github.com/harukalab/hiroto-v2)** | 🤖 AI agent for your CLI |
 
 </div>
 
