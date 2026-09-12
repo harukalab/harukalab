@@ -80,11 +80,3 @@
 </div>
 
 </div>
-
----
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats-beige-alpha.vercel.app/api/top-langs/?username=harukalab&theme=dark&hide_border=true&layout=compact&title_color=8FBF7F&text_color=ffffff&bg_color=141210)
-
-</div>
