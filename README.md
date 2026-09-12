@@ -1,21 +1,17 @@
 <!--
 **harukalab/harukalab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Hi there, I'm **harukalab**! 👋
 -->
 
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/palettes/catppuccin-mocha-dark.png" width="300" alt="Catppuccin Mocha" />
-</h3>
-
 <div align="center">
 
-### ⚡ Developer · AI Enthusiast · Terminal Hacker
+### 👋 Hi, I'm **harukalab**
 
-[![GitHub](https://img.shields.io/badge/GitHub-harukalab-181717?logo=github)](https://github.com/harukalab)
-[![Hiroto](https://img.shields.io/badge/Hiroto-v0.6.2-8FBF7F?logo=go)](https://github.com/harukalab/hiroto-v2)
-[![Go](https://img.shields.io/badge/Go-1.26+-00ADD8?logo=go)](https://go.dev)
-[![Terminal](https://img.shields.io/badge/Terminal-🖥️-181717)](#)
+*Developer · AI Enthusiast · Terminal Hacker*
+
+[![GitHub](https://img.shields.io/badge/GitHub-harukalab-181717?logo=github&style=flat)](https://github.com/harukalab)
+[![Hiroto v2](https://img.shields.io/badge/Hiroto-v0.6.2-8FBF7F?style=flat)](https://github.com/harukalab/hiroto-v2)
+[![Go](https://img.shields.io/badge/Go-1.26+-00ADD8?logo=go&style=flat)](https://go.dev)
+[![Terminal](https://img.shields.io/badge/Terminal-🖥️-181717?style=flat)](#)
 
 </div>
 
@@ -23,58 +19,45 @@ Hi there, I'm **harukalab**! 👋
 
 <div align="center">
 
+### ⚡ ASCII Art
+
 ```
-██╗  ██╗  ██████╗ ██████╗   ██████╗  ████████╗  ██████╗ 
-██║  ██║  ╚═════╝ ██╔══██╗ ██╔══██╗ ╚══██╔══╝ ██╔═══██╗
-███████║     ██║  ██████╔╝ ██║   ██║    ██║    ██║   ██║
-██╔══██║     ██║  ██╔══██╗ ██║   ██║    ██║    ██║   ██║
-██║  ██║     ██║  ██║  ██║ ╚██████╔╝    ██║    ╚██████╔╝
-╚═╝  ╚═╝     ╚═╝  ╚═╝  ╚═╝  ╚═════╝     ╚═╝     ╚═════╝
+╔╦╗╦╔═╗╔═╗╔═╗╦ ╦╔═╗
+ ║ ║║╠╩╗║ ║╠═╣║║║╚═╗
+ ╩ ╩╩╚═╝╚═╝╩ ╩╚╩╝╚═╝
 ```
 
 </div>
 
 ---
 
-### 🔥 What I build
+<div align="center">
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+| Category | Tools |
+|----------|-------|
+| **Core** | Go · TypeScript · Python · Rust |
+| **TUI** | Bubbletea · Lipgloss · tview |
+| **Web** | Chrome CDP · HTTP · WebSocket |
+| **Infra** | Linux · Docker · CI/CD |
+| **AI/ML** | LLM APIs · LangChain · Ollama |
+
+</div>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🔥 Projects
 
 | Project | Description |
 |---------|-------------|
-| **[Hiroto v2](https://github.com/harukalab/hiroto-v2)** | AI agent that lives in your terminal. Code, browse, automate — all from the CLI. Built in Go. |
-
-### 🛠️ Tech stack
-
-- **Go** — Hiroto core, CLI tools, API server
-- **TypeScript/Node** — TUI, web tools, automation scripts
-- **Python** — ML pipelines, data processing
-- **Linux/Terminal** — where everything happens
-- **Chrome/CDP** — browser automation under the hood
-
-### 📊 Stats
-
-<!--START_SECTION:stats-->
-<div align="center">
-
-```mermaid
-graph LR
-  A[Go] -->|Hiroto Core| B(TUI)
-  A -->|API Server| C(OpenAI Compat)
-  D[Bash/Shell] -->|Automation| B
-  E[Python] -->|ML/Data| F[Pipeline]
-```
-
-</div>
-<!--END_SECTION:stats-->
-
-<div align="center">
-
-### 🏆 GitHub Stats
-
-| Metric | Value |
-|--------|-------|
-| 📦 Repos | [See profile](https://github.com/harukalab) |
-| 🌟 Stars | Collecting them |
-| 📝 Commits | Terminal-first |
+| **[Hiroto v2](https://github.com/harukalab/hiroto-v2)** | 🤖 AI agent that lives in your terminal |
 
 </div>
 
@@ -82,28 +65,41 @@ graph LR
 
 <div align="center">
 
-### 📫 Get in touch
+### 📊 Activity
+
+<!-- GitHub stats load after you have commits -->
+
+<div align="center">
+
+![harukalab's github stats](https://github-readme-stats.vercel.app/api?username=harukalab&show_icons=true&theme=dark&hide_border=true&title_color=8FBF7F&text_color=ffffff&icon_color=8FBF7F&bg_color=141210)
+
+</div>
+
+</div>
+
+---
+
+<div align="center">
+
+### 📫 Connect
 
 | Platform | Link |
 |----------|------|
 | GitHub | [@harukalab](https://github.com/harukalab) |
-| Hiroto v2 | [github.com/harukalab/hiroto-v2](https://github.com/harukalab/hiroto-v2) |
+| Project | [hiroto-v2](https://github.com/harukalab/hiroto-v2) |
 
 <div align="center">
 
-Made with ☕ and `go build`
+> "The best way to predict the future is to implement it." — but in Go, preferably.
+
+`made with ☕ and \`go build\``
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harukalab&theme=dark&show_icons=true&hide_border=true&hide_title=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harukalab&theme=dark&hide_border=true&layout=compact&langs_count=6" alt="Top languages" />
-</div>
 
-<div align="center">
-
-> "The best way to predict the future is to implement it." — but in Go, preferably.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harukalab&theme=dark&hide_border=true&layout=compact&title_color=8FBF7F&text_color=ffffff&bg_color=141210)
 
 </div>
